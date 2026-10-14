@@ -449,7 +449,7 @@ export const rocketRegistry = [
     "availableStages": null,
     "flipVertical": false,
     "manufacturer": "SpaceX",
-    "thumbnail": "/models/rockets/starship-s24-b7/preview.jpg",
+    "thumbnail": "/models/rockets/starship-s24-b7/preview.jpg?v=2",
     "simulationConfig": null,
     "license": "CC BY 4.0 — credit creator, link source and license, and identify modifications",
     "attribution": "Spacex Starship Ship 24 & Booster 7 V4 by clarence365",
