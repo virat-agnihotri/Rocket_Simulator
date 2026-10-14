@@ -1,0 +1,123 @@
+
+# ==========================================
+# ROCKET MISSION PLATFORM - GITIGNORE
+# ==========================================
+
+# ---------- PYTHON ----------
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Python build files
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Python testing
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# ---------- NODE / REACT / VITE ----------
+node_modules/
+dist/
+.next/
+.vite/
+.cache/
+coverage/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ---------- ENVIRONMENT / SECRETS ----------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ---------- IDE ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---------- HEAVY 3D ASSETS ----------
+# Exclude large rocket and Earth models
+*.glb
+*.gltf
+*.fbx
+*.blend
+*.obj
+*.stl
+*.usd
+*.usdz
+
+# Exclude asset-specific directories
+assets/
+downloads/
+frontend/public/models/
+frontend/public/textures/
+frontend/src/assets/models/
+frontend/src/assets/textures/
+
+# ---------- LARGE TEXTURES ----------
+# Keep ordinary UI PNG/JPG images tracked.
+# Exclude high-resolution texture formats.
+*.exr
+*.hdr
+*.tif
+*.tiff
+*.ktx
+*.ktx2
+
+# ---------- ARCHIVES ----------
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+
+# ---------- DATABASE ----------
+*.sqlite3
+*.db
+
+# ---------- LOGS / TEMP ----------
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+
+# ---------- OS ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- SIMULATION OUTPUT ----------
+# Ignore generated simulation data,
+# not source code or configuration.
+simulation_outputs/
+backend/outputs/
+backend/results/
+checkpoints/

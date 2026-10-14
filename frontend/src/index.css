@@ -1,0 +1,157 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: dark;
+  --background: #0D1012;
+  --background-secondary: #14191C;
+  --surface: #1B2023;
+  --surface-elevated: #262D30;
+  --text-primary: #F1EDE5;
+  --text-secondary: #A8B0AC;
+  --gold: #D6B477;
+  --telemetry: #53A69A;
+  --ember: #F18A52;
+  --success: #7EBF98;
+  --warning: #E8B45C;
+  --failure: #E36A6A;
+  --border: #3B4445;
+  --bg-space: var(--background);
+  --bg-card: var(--surface);
+  --bg-card-hover: var(--surface-elevated);
+  --border-color: var(--border);
+}
+@theme {
+  --color-slate-50: var(--text-primary);
+  --color-slate-100: var(--text-primary);
+  --color-slate-200: var(--text-primary);
+  --color-slate-300: var(--text-secondary);
+  --color-slate-400: var(--text-secondary);
+  --color-slate-500: var(--text-secondary);
+  --color-slate-600: var(--text-secondary);
+  --color-slate-700: var(--border);
+  --color-slate-800: var(--surface-elevated);
+  --color-slate-900: var(--surface);
+  --color-slate-950: var(--background-secondary);
+  --color-sky-50: var(--text-primary);
+  --color-sky-100: var(--text-primary);
+  --color-sky-200: var(--gold);
+  --color-sky-300: var(--gold);
+  --color-sky-400: var(--gold);
+  --color-sky-500: var(--gold);
+  --color-sky-600: var(--gold);
+  --color-sky-700: var(--gold);
+  --color-sky-800: var(--gold);
+  --color-sky-900: var(--surface-elevated);
+  --color-sky-950: var(--background-secondary);
+  --color-cyan-100: var(--telemetry);
+  --color-cyan-200: var(--telemetry);
+  --color-cyan-300: var(--telemetry);
+  --color-cyan-400: var(--telemetry);
+  --color-cyan-500: var(--telemetry);
+  --color-cyan-600: var(--telemetry);
+  --color-cyan-700: var(--telemetry);
+  --color-cyan-800: var(--telemetry);
+  --color-cyan-900: var(--telemetry);
+  --color-cyan-950: var(--telemetry);
+  --color-blue-100: var(--telemetry);
+  --color-blue-200: var(--telemetry);
+  --color-blue-300: var(--telemetry);
+  --color-blue-400: var(--telemetry);
+  --color-blue-500: var(--telemetry);
+  --color-blue-600: var(--telemetry);
+  --color-blue-700: var(--telemetry);
+  --color-blue-800: var(--telemetry);
+  --color-blue-900: var(--telemetry);
+  --color-blue-950: var(--telemetry);
+  --color-purple-100: var(--gold);
+  --color-purple-200: var(--gold);
+  --color-purple-300: var(--gold);
+  --color-purple-400: var(--gold);
+  --color-purple-500: var(--gold);
+  --color-purple-600: var(--gold);
+  --color-purple-700: var(--gold);
+  --color-purple-800: var(--gold);
+  --color-purple-900: var(--gold);
+  --color-purple-950: var(--gold);
+  --color-emerald-100: var(--success);
+  --color-emerald-200: var(--success);
+  --color-emerald-300: var(--success);
+  --color-emerald-400: var(--success);
+  --color-emerald-500: var(--success);
+  --color-emerald-600: var(--success);
+  --color-emerald-700: var(--success);
+  --color-emerald-800: var(--success);
+  --color-emerald-900: var(--success);
+  --color-emerald-950: var(--success);
+  --color-green-100: var(--success);
+  --color-green-200: var(--success);
+  --color-green-300: var(--success);
+  --color-green-400: var(--success);
+  --color-green-500: var(--success);
+  --color-green-600: var(--success);
+  --color-green-700: var(--success);
+  --color-green-800: var(--success);
+  --color-green-900: var(--success);
+  --color-green-950: var(--success);
+  --color-amber-100: var(--warning);
+  --color-amber-200: var(--warning);
+  --color-amber-300: var(--warning);
+  --color-amber-400: var(--warning);
+  --color-amber-500: var(--warning);
+  --color-amber-600: var(--warning);
+  --color-amber-700: var(--warning);
+  --color-amber-800: var(--warning);
+  --color-amber-900: var(--warning);
+  --color-amber-950: var(--warning);
+  --color-orange-100: var(--ember);
+  --color-orange-200: var(--ember);
+  --color-orange-300: var(--ember);
+  --color-orange-400: var(--ember);
+  --color-orange-500: var(--ember);
+  --color-orange-600: var(--ember);
+  --color-orange-700: var(--ember);
+  --color-orange-800: var(--ember);
+  --color-orange-900: var(--ember);
+  --color-orange-950: var(--ember);
+  --color-rose-100: var(--failure);
+  --color-rose-200: var(--failure);
+  --color-rose-300: var(--failure);
+  --color-rose-400: var(--failure);
+  --color-rose-500: var(--failure);
+  --color-rose-600: var(--failure);
+  --color-rose-700: var(--failure);
+  --color-rose-800: var(--failure);
+  --color-rose-900: var(--failure);
+  --color-rose-950: var(--failure);
+  --color-red-100: var(--failure);
+  --color-red-200: var(--failure);
+  --color-red-300: var(--failure);
+  --color-red-400: var(--failure);
+  --color-red-500: var(--failure);
+  --color-red-600: var(--failure);
+  --color-red-700: var(--failure);
+  --color-red-800: var(--failure);
+  --color-red-900: var(--failure);
+  --color-red-950: var(--failure);
+}
+@layer base {
+  body { margin:0; background:var(--background); color:var(--text-primary); font-family:"Segoe UI",Arial,sans-serif; overflow-x:hidden; }
+  h1,h2,h3 { color:var(--text-primary); letter-spacing:-.035em; }
+  button,a,input,select { -webkit-tap-highlight-color:transparent; }
+  button { cursor:pointer; }
+  :is(button,a,input,select,summary):focus-visible { outline:2px solid var(--gold); outline-offset:4px; }
+  input[type=range] { accent-color:var(--gold); }
+  ::selection { background:var(--gold); color:var(--background); }
+}
+::-webkit-scrollbar { width:7px; height:7px; }
+::-webkit-scrollbar-track { background:var(--background); }
+::-webkit-scrollbar-thumb { background:var(--border); border-radius:8px; }
+/* Shared polish for every scientific workspace. */
+.mission-nav-header { background:color-mix(in srgb,var(--background) 94%,transparent); border-color:var(--border); }
+.mission-nav-header nav a { min-height:36px; }
+.mission-nav-header nav a[aria-current=page] { color:var(--gold); border:1px solid var(--gold); background:color-mix(in srgb,var(--gold) 10%,var(--background)); }
+button { transition:background-color .18s,border-color .18s,transform .18s; }
+button:hover:not(:disabled) { filter:brightness(1.08); }
+:is(button,a)[class*="bg-sky-600"], :is(button,a)[class*="bg-sky-500"]:not([class*="bg-sky-500/"]) { color:var(--background); }
+[class*="shadow-[0_0_"] { box-shadow:0 6px 18px #0003; }
+@media(prefers-reduced-motion:reduce) { *,*::before,*::after { animation:none!important; transition:none!important; scroll-behavior:auto!important; } }

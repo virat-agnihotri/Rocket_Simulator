@@ -1,0 +1,3117 @@
+[
+  {
+    "source": "F:\\telementry_project\\assets\\Mobile Launcher (assembled).glb",
+    "format": ".glb",
+    "bytes": 198480
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\Saturn V.glb",
+    "format": ".glb",
+    "bytes": 927212
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\Block 1 (GNC markings scanline)\\Block 1 (GNC markings scanline).dwf",
+    "format": ".dwf",
+    "bytes": 62290304
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\Block 1 (GNC markings scanline)\\Block 1 (GNC markings scanline).max",
+    "format": ".max",
+    "bytes": 41959138
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\drei-master\\drei-master\\.storybook\\public\\archer.glb",
+    "format": ".glb",
+    "bytes": 433776
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\drei-master\\drei-master\\.storybook\\public\\cerberus.obj",
+    "format": ".obj",
+    "bytes": 2637083
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\drei-master\\drei-master\\.storybook\\public\\dflat.glb",
+    "format": ".glb",
+    "bytes": 11468
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\drei-master\\drei-master\\.storybook\\public\\gelatinous_cube.glb",
+    "format": ".glb",
+    "bytes": 665348
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\drei-master\\drei-master\\.storybook\\public\\LittlestTokyo.glb",
+    "format": ".glb",
+    "bytes": 4133072
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\drei-master\\drei-master\\.storybook\\public\\suzanne-high-poly.gltf",
+    "format": ".gltf",
+    "bytes": 37903
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\drei-master\\drei-master\\.storybook\\public\\suzanne.glb",
+    "format": ".glb",
+    "bytes": 14232
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\drei-master\\drei-master\\.storybook\\public\\ybot.glb",
+    "format": ".glb",
+    "bytes": 2469168
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\drei-master\\drei-master\\.storybook\\public\\suzanne\\suzanne.fbx",
+    "format": ".fbx",
+    "bytes": 44092
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\1999 RQ36 asteroid\\1999 RQ36 asteroid.glb",
+    "format": ".glb",
+    "bytes": 329596
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\70-meter Dish\\70 meter dish.glb",
+    "format": ".glb",
+    "bytes": 2216584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Active Cavity Irradiance Monitor Satellite (AcrimSAT) (A)\\Active Cavity Irradiance Monitor Satellite (AcrimSAT) (A).glb",
+    "format": ".glb",
+    "bytes": 2115124
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Active Cavity Irradiance Monitor Satellite (AcrimSAT) (B)\\Active Cavity Irradiance Monitor Satellite (AcrimSAT) (B).glb",
+    "format": ".glb",
+    "bytes": 1091672
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Advanced Composition Explorer\\Advanced Composition Explorer.glb",
+    "format": ".glb",
+    "bytes": 2030760
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Advanced Crew Escape Suit\\Advanced Crew Escape Suit.glb",
+    "format": ".glb",
+    "bytes": 858408
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Advanced Technology Large-Aperture Space Telescope (ATLAST)\\Advanced Technology Large-Aperture Space Telescope (ATLAST).glb",
+    "format": ".glb",
+    "bytes": 465864
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Aeronomy of Ice in the Mesosphere\\Aeronomy of Ice in the Mesosphere.glb",
+    "format": ".glb",
+    "bytes": 323372
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Agena Target Vehicle\\Agena Target Vehicle.glb",
+    "format": ".glb",
+    "bytes": 1156596
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Apollo Lunar Module\\Apollo Lunar Module.glb",
+    "format": ".glb",
+    "bytes": 716840
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Apollo Soyuz\\Apollo Soyuz.glb",
+    "format": ".glb",
+    "bytes": 952608
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Aqua (A)\\Aqua (A).glb",
+    "format": ".glb",
+    "bytes": 1994440
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Aqua (B)\\Aqua (B).glb",
+    "format": ".glb",
+    "bytes": 1104016
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Aqua (C)\\Aqua (C).glb",
+    "format": ".glb",
+    "bytes": 1321604
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Aquarius (A)\\Aquarius (A).glb",
+    "format": ".glb",
+    "bytes": 1137428
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Aquarius (B)\\Aquarius (B) (compact).glb",
+    "format": ".glb",
+    "bytes": 3797408
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Aquarius (B)\\Aquarius (B) (unfurled).glb",
+    "format": ".glb",
+    "bytes": 3720696
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Ares 1 (A)\\Ares 1 (A).glb",
+    "format": ".glb",
+    "bytes": 98128
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Ares 1 (B)\\Ares 1 (B).glb",
+    "format": ".glb",
+    "bytes": 99136
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Argo\\Argo.glb",
+    "format": ".glb",
+    "bytes": 42572
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Astronaut\\Astronaut.glb",
+    "format": ".glb",
+    "bytes": 762988
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Astronaut Glove\\Astronaut Glove.glb",
+    "format": ".glb",
+    "bytes": 661976
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Atlas 6 (Friendship 7)\\Atlas 6 (Friendship 7).glb",
+    "format": ".glb",
+    "bytes": 1026724
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Atlas 7 (Aurora 7)\\Atlas 7 (Aurora 7).glb",
+    "format": ".glb",
+    "bytes": 1026872
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Atlas 9 (Faith 7)\\Atlas 9 (Faith 7).glb",
+    "format": ".glb",
+    "bytes": 1025820
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Atmosphere-Space Transition Region Explorer (ASTRE)\\Atmosphere-Space Transition Region Explorer (ASTRE).glb",
+    "format": ".glb",
+    "bytes": 583552
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Aura (A)\\Aura (A).glb",
+    "format": ".glb",
+    "bytes": 476264
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Aura (B)\\Aura (B).glb",
+    "format": ".glb",
+    "bytes": 1411492
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Aura (C)\\Aura (C).glb",
+    "format": ".glb",
+    "bytes": 518348
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Aura (D)\\Aura (D).glb",
+    "format": ".glb",
+    "bytes": 982112
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Base Station\\Base Station.glb",
+    "format": ".glb",
+    "bytes": 21752
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Ben Franklin\\Ben Franklin.glb",
+    "format": ".glb",
+    "bytes": 13892144
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\BP Tauri\\BP Tauri.glb",
+    "format": ".glb",
+    "bytes": 4620884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Cassini Assembly\\Cassini Assembly.glb",
+    "format": ".glb",
+    "bytes": 2388308
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Cassini-Huygens (A)\\Cassini-Huygens (A) (without Cassini).glb",
+    "format": ".glb",
+    "bytes": 1014092
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Cassini-Huygens (A)\\Cassini-Huygens (A) (without Hyugens).glb",
+    "format": ".glb",
+    "bytes": 1653316
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Cassini-Huygens (A)\\Cassini-Huygens (A).glb",
+    "format": ".glb",
+    "bytes": 1660492
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Cassini-Huygens (B)\\Cassini-Huygens (B).glb",
+    "format": ".glb",
+    "bytes": 413640
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Cassiopeia A Supernova\\Cassiopeia A Supernova.glb",
+    "format": ".glb",
+    "bytes": 10475620
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Cassiopeia A Supernova (B) (2023)\\Cassiopeia A Supernova (B) (2023).glb",
+    "format": ".glb",
+    "bytes": 15932656
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Cassiopeia A Supernova (C) (2025)\\Cassiopeia A Supernova (C) (2025).glb",
+    "format": ".glb",
+    "bytes": 8502472
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Chandra X-ray Observatory\\Chandra X-ray Observatory.glb",
+    "format": ".glb",
+    "bytes": 998500
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Clementine\\Clementine.glb",
+    "format": ".glb",
+    "bytes": 3025380
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Cloud-Aerosol Lidar and Infrared Pathfinder Satellite (CALIPSO)\\Cloud-Aerosol Lidar and Infrared Pathfinder Satellite (CALIPSO).glb",
+    "format": ".glb",
+    "bytes": 536084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\CloudSat (A)\\CloudSat (A).glb",
+    "format": ".glb",
+    "bytes": 267656
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\CloudSat (B)\\CloudSat (B).glb",
+    "format": ".glb",
+    "bytes": 623792
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\CloudSat (C)\\CloudSat (C).glb",
+    "format": ".glb",
+    "bytes": 705152
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Cluster\\Cluster.glb",
+    "format": ".glb",
+    "bytes": 148336
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Cluster II\\Cluster II.glb",
+    "format": ".glb",
+    "bytes": 838556
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Communication and Navigation Outage Forecast System (CNOFS)\\Communication and Navigation Outage Forecast System (CNOFS).glb",
+    "format": ".glb",
+    "bytes": 1484180
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Constellation-X\\Constellation-X.glb",
+    "format": ".glb",
+    "bytes": 249696
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Cosmic Origins Spectrograph\\Cosmic Origins Spectrograph.glb",
+    "format": ".glb",
+    "bytes": 440592
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Crawler\\Crawler.glb",
+    "format": ".glb",
+    "bytes": 1629892
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Crew Lock Bag\\Crew Lock Bag.glb",
+    "format": ".glb",
+    "bytes": 609256
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\CubeSat - 1 RU Generic\\CubeSat - 1 RU Generic.glb",
+    "format": ".glb",
+    "bytes": 149424
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\CubeSat - 2 RU Generic\\CubeSat - 2 RU Generic.glb",
+    "format": ".glb",
+    "bytes": 206108
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\CubeSat - ICECube\\CubeSat - ICECube.glb",
+    "format": ".glb",
+    "bytes": 309684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\CubeSat - MiRaTa\\CubeSat - MiRaTa.glb",
+    "format": ".glb",
+    "bytes": 444564
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Cyclone Global Navigation Satellite System (CYGNSS)\\Cyclone Global Navigation Satellite System (CYGNSS).glb",
+    "format": ".glb",
+    "bytes": 1622924
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Cygnus Loop Supernova\\Cygnus Loop Supernova.glb",
+    "format": ".glb",
+    "bytes": 2888172
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Dawn\\Dawn.glb",
+    "format": ".glb",
+    "bytes": 927020
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Deep Impact (EPOXI)\\Deep Impact.glb",
+    "format": ".glb",
+    "bytes": 1537224
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Deep Impact (EPOXI)\\EPOXI (without impactor).glb",
+    "format": ".glb",
+    "bytes": 2581204
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Deep Impact (EPOXI)\\EPOXI.glb",
+    "format": ".glb",
+    "bytes": 2870776
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Deep Space 1\\Deep Space 1.glb",
+    "format": ".glb",
+    "bytes": 934676
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Deep Space Climate Observatory (DSCOVR) (Triana)\\Deep Space Climate Observatory (DSCOVR) (Triana).glb",
+    "format": ".glb",
+    "bytes": 112488
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Deep Space Network 34-meter\\Deep Space Network 34-meter.glb",
+    "format": ".glb",
+    "bytes": 2903116
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Deep Space Network 70-meter\\Deep Space Network 70-meter.glb",
+    "format": ".glb",
+    "bytes": 1867668
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Deformation, Ecosystem Structure, and Dynamics of Ice (DESDynI)\\Deformation, Ecosystem Structure, and Dynamics of Ice (DESDynI).glb",
+    "format": ".glb",
+    "bytes": 449352
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Earth Observing-1 (EO-1)\\Earth Observing-1 (EO-1).glb",
+    "format": ".glb",
+    "bytes": 224580
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\ESAS Crew Module\\ESAS Crew Module.glb",
+    "format": ".glb",
+    "bytes": 7664
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Explorer Jupiter-C Rocket\\Explorer Jupiter-C Rocket.glb",
+    "format": ".glb",
+    "bytes": 149372
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Extravehicular Mobility Unit\\Extravehicular Mobility Unit.glb",
+    "format": ".glb",
+    "bytes": 3448904
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Far Ultraviolet Spectroscopic Explorer\\Far Ultraviolet Spectroscopic Explorer.glb",
+    "format": ".glb",
+    "bytes": 236704
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Fermi Gamma-ray Large Area Space Telescope\\Fermi Gamma-ray Large Area Space Telescope.glb",
+    "format": ".glb",
+    "bytes": 1379016
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Firefly\\Firefly.glb",
+    "format": ".glb",
+    "bytes": 293692
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Flight System Support\\Flight System Support.glb",
+    "format": ".glb",
+    "bytes": 443068
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\G292.0+1.8 Supernova Remnant\\G292.0+1.8 Supernova Remnant.glb",
+    "format": ".glb",
+    "bytes": 1200552
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Galileo\\Galileo.glb",
+    "format": ".glb",
+    "bytes": 248532
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Gamma Ray Observatory\\Gamma Ray Observatory.glb",
+    "format": ".glb",
+    "bytes": 65368
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Gantry\\Gantry.glb",
+    "format": ".glb",
+    "bytes": 1386348
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Gateway\\Gateway Core.glb",
+    "format": ".glb",
+    "bytes": 66214552
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Gemini\\Gemini.glb",
+    "format": ".glb",
+    "bytes": 1387812
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Gemini Spacesuit\\Gemini Spacesuit.glb",
+    "format": ".glb",
+    "bytes": 2876516
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Geostationary Operational Environmental Satellites\\Geostationary Operational Environmental Satellites.glb",
+    "format": ".glb",
+    "bytes": 335620
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\GeoTailSAT\\GeoTailSAT.glb",
+    "format": ".glb",
+    "bytes": 91504
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Global Hawk\\Global Hawk.glb",
+    "format": ".glb",
+    "bytes": 1184092
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Global Precipitation Measurement\\Global Precipitation Measurement.glb",
+    "format": ".glb",
+    "bytes": 2257008
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Gravity Recovery and Climate Experiment (GRACE) (A)\\Gravity Recovery and Climate Experiment (GRACE) (A).glb",
+    "format": ".glb",
+    "bytes": 22620
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Gravity Recovery and Climate Experiment (GRACE) (B)\\Gravity Recovery and Climate Experiment (GRACE) (B).glb",
+    "format": ".glb",
+    "bytes": 1777600
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Grease Gun\\Grease gun.glb",
+    "format": ".glb",
+    "bytes": 48596
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Habitat Demonstration Unit\\Habitat Demonstration Unit (part 1).glb",
+    "format": ".glb",
+    "bytes": 516748
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Habitat Demonstration Unit\\Habitat Demonstration Unit (part 2).glb",
+    "format": ".glb",
+    "bytes": 710988
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Hammer\\Hammer.glb",
+    "format": ".glb",
+    "bytes": 10912
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Headquarters Building\\Headquarters Building.glb",
+    "format": ".glb",
+    "bytes": 212508
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Helmet\\Helmet.glb",
+    "format": ".glb",
+    "bytes": 232496
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\HESSI-RHESSI\\HESSI-RHESSI.glb",
+    "format": ".glb",
+    "bytes": 230764
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\High Energy Transient Explorer\\High Energy Transient Explorer.glb",
+    "format": ".glb",
+    "bytes": 61836
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Hinode (Solar-B)\\Hinode (Solar-B).glb",
+    "format": ".glb",
+    "bytes": 276248
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Hubble Space Telescope (A)\\Hubble Space Telescope (A).glb",
+    "format": ".glb",
+    "bytes": 1694988
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Hubble Space Telescope (B)\\Hubble Space Telescope (B).glb",
+    "format": ".glb",
+    "bytes": 5140096
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Ice, Clouds, and Land Elevation Satellite (ICESat) (A)\\Ice, Clouds, and Land Elevation Satellite (ICESat) (A).glb",
+    "format": ".glb",
+    "bytes": 1151936
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Ice, Clouds, and Land Elevation Satellite (ICESat) (B)\\Ice, Clouds, and Land Elevation Satellite (ICESat) (B).glb",
+    "format": ".glb",
+    "bytes": 2848564
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (A)\\Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (A).glb",
+    "format": ".glb",
+    "bytes": 1499504
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (B)\\Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (B).glb",
+    "format": ".glb",
+    "bytes": 2000752
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (C)\\Ice, Clouds, and Land Elevation Satellite-2 (ICESat-2) (C).glb",
+    "format": ".glb",
+    "bytes": 9059632
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Infrared Camera\\Infrared Camera.glb",
+    "format": ".glb",
+    "bytes": 145640
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Ingenuity Mars Helicopter\\Ingenuity Mars Helicopter.glb",
+    "format": ".glb",
+    "bytes": 2019408
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\InSight Cruise Lander\\InSight Cruise Lander (arm deployed).glb",
+    "format": ".glb",
+    "bytes": 3949036
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\InSight Cruise Lander\\InSight Cruise Lander (panels deployed).glb",
+    "format": ".glb",
+    "bytes": 3948936
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\InSight Cruise Lander\\InSight Cruise Lander (panels stowed).glb",
+    "format": ".glb",
+    "bytes": 3727616
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\InSight Cruise Lander\\InSight Cruise Lander (stowed).glb",
+    "format": ".glb",
+    "bytes": 3990572
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\International Space Station (ISS) (A)\\International Space Station (ISS) (A).glb",
+    "format": ".glb",
+    "bytes": 39708
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\International Space Station (ISS) (B)\\International Space Station (ISS) (B).glb",
+    "format": ".glb",
+    "bytes": 476992
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\International Space Station (ISS) (D) (IGOAL)\\International Space Station (ISS).glb",
+    "format": ".glb",
+    "bytes": 95875648
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\International X-ray Observatory\\International X-ray Observatory.glb",
+    "format": ".glb",
+    "bytes": 1224540
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Interstellar Boundary Explorer (IBEX)\\Interstellar Boundary Explorer (IBEX).glb",
+    "format": ".glb",
+    "bytes": 1306616
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Ionospheric Connection Explorer (ICON)\\Ionospheric Connection Explorer (ICON).glb",
+    "format": ".glb",
+    "bytes": 2619708
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\James Webb Space Telescope (A)\\James Webb Space Telescope (A).glb",
+    "format": ".glb",
+    "bytes": 4710016
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\James Webb Space Telescope (B)\\James Webb Space Telescope (B).glb",
+    "format": ".glb",
+    "bytes": 1004248
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Jason 1\\Jason 1.glb",
+    "format": ".glb",
+    "bytes": 592740
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Jason Continuity of Service (Sentinel-6)\\Jason Continuity of Service (Sentinel-6).glb",
+    "format": ".glb",
+    "bytes": 2108496
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\JSC Mission Control Room\\JSC Mission Control Room.glb",
+    "format": ".glb",
+    "bytes": 185220
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Juno (A)\\Juno (A).glb",
+    "format": ".glb",
+    "bytes": 8999028
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Juno (B)\\Juno (B).glb",
+    "format": ".glb",
+    "bytes": 262360
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Kepler (A)\\Kepler (A).glb",
+    "format": ".glb",
+    "bytes": 2003276
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Kepler (B)\\Kepler (B).glb",
+    "format": ".glb",
+    "bytes": 9656
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Landsat 1, 2, and 3\\Landsat 1, 2, and 3.glb",
+    "format": ".glb",
+    "bytes": 16351272
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Landsat 4 and 5\\Landsat 4 and 5.glb",
+    "format": ".glb",
+    "bytes": 11069784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Landsat 7\\Landsat 7.glb",
+    "format": ".glb",
+    "bytes": 160156
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Landsat 8\\Landsat 8.glb",
+    "format": ".glb",
+    "bytes": 780280
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Laser Interferometer Space Antenna (LISA) (2006)\\Laser Interferometer Space Antenna (LISA) (2006).glb",
+    "format": ".glb",
+    "bytes": 300608
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Lunar Atmosphere and Dust Environment Explorer (LADEE)\\Lunar Atmosphere and Dust Environment Explorer (LADEE).glb",
+    "format": ".glb",
+    "bytes": 235468
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Lunar Laser Communications Demonstration (LLCD)\\Lunar Laser Communications Demonstration (LLCD).glb",
+    "format": ".glb",
+    "bytes": 1048648
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Lunar Reconnaissance Orbiter (A)\\Lunar Reconnaissance Orbiter (A).glb",
+    "format": ".glb",
+    "bytes": 654500
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Lunar Reconnaissance Orbiter (B)\\Lunar Reconnaissance Orbiter (B).glb",
+    "format": ".glb",
+    "bytes": 2902744
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Magellan\\Magellan.glb",
+    "format": ".glb",
+    "bytes": 3156768
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Magnetospheric Multiscale (MMS) (A)\\Magnetospheric Multiscale (MMS) (A).glb",
+    "format": ".glb",
+    "bytes": 335808
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Magnetospheric Multiscale (MMS) (B)\\Magnetospheric Multiscale (MMS) (B).glb",
+    "format": ".glb",
+    "bytes": 1181276
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mark III Spacesuit\\Mark III Spacesuit.glb",
+    "format": ".glb",
+    "bytes": 894092
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mars 2020 Perseverance Rover\\Mars 2020 Perseverance Rover.glb",
+    "format": ".glb",
+    "bytes": 4987176
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mars Atmosphere and Volatile EvolutioN (MAVEN) (A)\\Mars Atmosphere and Volatile EvolutioN (MAVEN) (A).glb",
+    "format": ".glb",
+    "bytes": 10465800
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mars Atmosphere and Volatile EvolutioN (MAVEN) (B)\\Mars Atmosphere and Volatile EvolutioN (MAVEN) (B).glb",
+    "format": ".glb",
+    "bytes": 11696720
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mars Exploration Rover - Opportunity (MER-B)\\Mars Exploration Rover - Opportunity (MER-B).glb",
+    "format": ".glb",
+    "bytes": 36668
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mars Global Surveyor\\Mars Global Surveyor (launch).glb",
+    "format": ".glb",
+    "bytes": 58252
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mars Global Surveyor\\Mars Global Surveyor (mapping).glb",
+    "format": ".glb",
+    "bytes": 55184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mars Global Surveyor\\Mars Global Surveyor (MOI).glb",
+    "format": ".glb",
+    "bytes": 53352
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mars Global Surveyor\\Mars Global Surveyor.glb",
+    "format": ".glb",
+    "bytes": 1921268
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mars Odyssey\\Mars Odyssey.glb",
+    "format": ".glb",
+    "bytes": 5801372
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mars Reconnaissance Orbiter (MRO) (A)\\Mars Reconnaissance Orbiter (MRO) (A).glb",
+    "format": ".glb",
+    "bytes": 2652460
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mars Reconnaissance Orbiter (MRO) (B)\\Mars Reconnaissance Orbiter (MRO) (B).glb",
+    "format": ".glb",
+    "bytes": 16544
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mars Reconnaissance Orbiter (MRO) (C)\\Mars Reconnaissance Orbiter (MRO) (C).glb",
+    "format": ".glb",
+    "bytes": 1219800
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mercury Spacesuit\\Mercury Spacesuit.glb",
+    "format": ".glb",
+    "bytes": 513884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\MErcury Surface, Space ENvironment, GEochemistry, and Ranging (MESSENGER)\\MErcury Surface, Space ENvironment, GEochemistry, and Ranging (MESSENGER).glb",
+    "format": ".glb",
+    "bytes": 2673396
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mir\\Mir.glb",
+    "format": ".glb",
+    "bytes": 20884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mobile Launcher\\Mobile Launcher (assembled).glb",
+    "format": ".glb",
+    "bytes": 198480
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Mobile Launcher\\Mobile Launcher (pad only).glb",
+    "format": ".glb",
+    "bytes": 149408
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Nancy Grace Roman Space Telescope (A)\\Nancy Grace Roman Space Telescope (A).glb",
+    "format": ".glb",
+    "bytes": 2672000
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Nancy Grace Roman Space Telescope (B)\\Nancy Grace Roman Space Telescope (B).glb",
+    "format": ".glb",
+    "bytes": 342672
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\NEAR Shoemaker\\NEAR Shoemaker.glb",
+    "format": ".glb",
+    "bytes": 701808
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Ocean Surface Topography Mission (OSTM Jason-2)\\Ocean Surface Topography Mission (OSTM Jason-2).glb",
+    "format": ".glb",
+    "bytes": 924688
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Orbital Replacement Unit\\Orbital Replacement Unit.glb",
+    "format": ".glb",
+    "bytes": 585684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Orbiting Carbon Observatory (OCO) 2\\Orbiting Carbon Observatory (OCO) 2.glb",
+    "format": ".glb",
+    "bytes": 280060
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Origins, Spectral Interpretation, Resource Identification, and Security - Regolith Explorer (OSIRIS-REx)\\OSIRIS-REx.glb",
+    "format": ".glb",
+    "bytes": 1281308
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Parker Solar Probe\\Parker Solar Probe.glb",
+    "format": ".glb",
+    "bytes": 443572
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Pioneer 10\\Pioneer 10.glb",
+    "format": ".glb",
+    "bytes": 2049840
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Pistol Grip Tool\\Pistol Grip Tool.glb",
+    "format": ".glb",
+    "bytes": 236300
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Polar\\Polar.glb",
+    "format": ".glb",
+    "bytes": 98592
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Polar Operational Environmental Satellite (POES)\\Polar Operational Environmental Satellite (POES).glb",
+    "format": ".glb",
+    "bytes": 1158944
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Quick Scatterometer (QuikSCAT)\\Quick Scatterometer (QuikSCAT).glb",
+    "format": ".glb",
+    "bytes": 4461708
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Radar Satellite-1 (RADARSAT-1)\\Radar Satellite-1 (RADARSAT-1).glb",
+    "format": ".glb",
+    "bytes": 68148
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Radome\\Radome.glb",
+    "format": ".glb",
+    "bytes": 824128
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Ratchet\\Ratchet.glb",
+    "format": ".glb",
+    "bytes": 33508
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Redstone 3 (Freedom 7)\\Redstone 3 (Freedom 7).glb",
+    "format": ".glb",
+    "bytes": 1028400
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Regolith Advanced Surface Systems Operations Robot (RASSOR)\\Regolith Advanced Surface Systems Operations Robot (RASSOR).glb",
+    "format": ".glb",
+    "bytes": 6283464
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Robonaut 2\\Robonaut 2.glb",
+    "format": ".glb",
+    "bytes": 1066836
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Rosetta\\Rosetta.glb",
+    "format": ".glb",
+    "bytes": 2262728
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Satellite for Scientific Applications (SAC-C)\\Satellite for Scientific Applications (SAC-C).glb",
+    "format": ".glb",
+    "bytes": 73608
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Satellite Kit\\Satellite Kit body 1.glb",
+    "format": ".glb",
+    "bytes": 2916
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Satellite Kit\\Satellite Kit body 2.glb",
+    "format": ".glb",
+    "bytes": 5256
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Satellite Kit\\Satellite Kit body 3.glb",
+    "format": ".glb",
+    "bytes": 4944
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Satellite Kit\\Satellite Kit radio 1.glb",
+    "format": ".glb",
+    "bytes": 8436
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Satellite Kit\\Satellite Kit radio 2.glb",
+    "format": ".glb",
+    "bytes": 8752
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Satellite Kit\\Satellite Kit radio 3.glb",
+    "format": ".glb",
+    "bytes": 9012
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Satellite Kit\\Satellite Kit wings 1.glb",
+    "format": ".glb",
+    "bytes": 4860
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Satellite Kit\\Satellite Kit wings 2.glb",
+    "format": ".glb",
+    "bytes": 8172
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Satellite Kit\\Satellite Kit wings 3.glb",
+    "format": ".glb",
+    "bytes": 14820
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Saturn V\\Saturn V.glb",
+    "format": ".glb",
+    "bytes": 927212
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\SeaStar\\SeaStar.glb",
+    "format": ".glb",
+    "bytes": 24048
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Skylab\\Skylab.glb",
+    "format": ".glb",
+    "bytes": 98396
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Solar and Heliospheric Observatory\\Solar and Heliospheric Observatory.glb",
+    "format": ".glb",
+    "bytes": 83268
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Solar Dynamics Observatory\\Solar Dynamics Observatory.glb",
+    "format": ".glb",
+    "bytes": 497844
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Solar Radiation and Climate Experiment (SORCE)\\Solar Radiation and Climate Experiment (SORCE).glb",
+    "format": ".glb",
+    "bytes": 366492
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Solar Sail Concept\\Solar Sail Concept.glb",
+    "format": ".glb",
+    "bytes": 235524
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Solar TErrestrial RElations Observatory (STEREO)\\Solar TErrestrial RElations Observatory (STEREO).glb",
+    "format": ".glb",
+    "bytes": 354212
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Exploration Vehicle\\Space Exploration Vehicle.glb",
+    "format": ".glb",
+    "bytes": 22431576
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Shuttle (A)\\Space Shuttle (A).glb",
+    "format": ".glb",
+    "bytes": 1194068
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Shuttle (B)\\Space Shuttle (B).glb",
+    "format": ".glb",
+    "bytes": 11348
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Shuttle (C)\\Space Shuttle (C).glb",
+    "format": ".glb",
+    "bytes": 26132
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Shuttle (D)\\Space Shuttle (D) door-prt.glb",
+    "format": ".glb",
+    "bytes": 36044
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Shuttle (D)\\Space Shuttle (D) door-stb.glb",
+    "format": ".glb",
+    "bytes": 36024
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Shuttle (D)\\Space Shuttle (D) eng.glb",
+    "format": ".glb",
+    "bytes": 480216
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Shuttle (D)\\Space Shuttle (D) rcs.glb",
+    "format": ".glb",
+    "bytes": 480224
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Shuttle (D)\\Space Shuttle (D).glb",
+    "format": ".glb",
+    "bytes": 2471932
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Shuttle Parts\\EVA suit.glb",
+    "format": ".glb",
+    "bytes": 715864
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Shuttle Parts\\External tank.glb",
+    "format": ".glb",
+    "bytes": 848352
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Shuttle Parts\\Orbiter Docking System.glb",
+    "format": ".glb",
+    "bytes": 841040
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Shuttle Parts\\Payload.glb",
+    "format": ".glb",
+    "bytes": 516016
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Shuttle Parts\\Solid Rocket Booster.glb",
+    "format": ".glb",
+    "bytes": 2665460
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Shuttle Remote Manipulator System (Canadarm)\\Space Shuttle Remote Manipulator System (Canadarm).glb",
+    "format": ".glb",
+    "bytes": 271276
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Space Systems Loral (SSL-1300)\\Space Systems Loral (SSL-1300).glb",
+    "format": ".glb",
+    "bytes": 510324
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Spartan 201\\Spartan 201.glb",
+    "format": ".glb",
+    "bytes": 137564
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Spitzer Space Telescope\\Spitzer Space Telescope.glb",
+    "format": ".glb",
+    "bytes": 251388
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Stardust\\Stardust capsule closed.glb",
+    "format": ".glb",
+    "bytes": 3779840
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Stardust\\Stardust capsule.glb",
+    "format": ".glb",
+    "bytes": 2282444
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Stardust\\Stardust without capsule.glb",
+    "format": ".glb",
+    "bytes": 3757216
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Stardust\\Stardust.glb",
+    "format": ".glb",
+    "bytes": 3800544
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Station Explorer for X-Ray Timing and Navigation (SEXTANT)\\Station Explorer for X-Ray Timing and Navigation (SEXTANT).glb",
+    "format": ".glb",
+    "bytes": 2632772
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Submillimeter Wave Astronomy Satellite (SWAS)\\Submillimeter Wave Astronomy Satellite (SWAS).glb",
+    "format": ".glb",
+    "bytes": 150296
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Suomi National Polar-orbiting Partnership (Suomi NPP)\\Suomi National Polar-orbiting Partnership (Suomi NPP).glb",
+    "format": ".glb",
+    "bytes": 2283576
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Super Lightweight Interchangeable\\Super Lightweight Interchangeable.glb",
+    "format": ".glb",
+    "bytes": 1129164
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Suzaku\\Suzaku.glb",
+    "format": ".glb",
+    "bytes": 386852
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Swift\\Swift.glb",
+    "format": ".glb",
+    "bytes": 211404
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Tall Dish\\Tall Dish (dish).glb",
+    "format": ".glb",
+    "bytes": 1390916
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Tall Dish\\Tall Dish (post).glb",
+    "format": ".glb",
+    "bytes": 244516
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Tall Dish\\Tall Dish (turntable).glb",
+    "format": ".glb",
+    "bytes": 50680
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Terra\\Terra.fbx",
+    "format": ".fbx",
+    "bytes": 2798464
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Terra\\Terra.glb",
+    "format": ".glb",
+    "bytes": 2150600
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Tether\\tether.fbx",
+    "format": ".fbx",
+    "bytes": 635952
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Tether\\Tether.glb",
+    "format": ".glb",
+    "bytes": 491904
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Time History of Events and Macroscale Interactions During Substorms (THEMIS)\\Time History of Events and Macroscale Interactions During Substorms (THEMIS).glb",
+    "format": ".glb",
+    "bytes": 682092
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\TOPEX-Poseidon\\TOPEX-Poseidon.glb",
+    "format": ".glb",
+    "bytes": 214264
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Total Ozone Mapping Spectrometer (TOMS)\\Total Ozone Mapping Spectrometer (TOMS).glb",
+    "format": ".glb",
+    "bytes": 98620
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Tracking and Data Relay Satellites (TDRS) (A)\\Tracking and Data Relay Satellites (TDRS) (A).glb",
+    "format": ".glb",
+    "bytes": 96792
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Tracking and Data Relay Satellites (TDRS) (B)\\Tracking and Data Relay Satellites (TDRS) (B).glb",
+    "format": ".glb",
+    "bytes": 975956
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Tracking and Data Relay Satellites (TDRS) (C)\\Tracking and Data Relay Satellites (TDRS) (C) (left antenna).glb",
+    "format": ".glb",
+    "bytes": 2917112
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Tracking and Data Relay Satellites (TDRS) (C)\\Tracking and Data Relay Satellites (TDRS) (C) (right antenna).glb",
+    "format": ".glb",
+    "bytes": 2916768
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Tracking and Data Relay Satellites (TDRS) (C)\\Tracking and Data Relay Satellites (TDRS) (C).glb",
+    "format": ".glb",
+    "bytes": 2127504
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Tracking and Data Relay Satellites (TDRS) (D)\\Tracking and Data Relay Satellites (TDRS) (D).glb",
+    "format": ".glb",
+    "bytes": 1795448
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Tracking and Data Relay Satellites (TRDS) (E)\\Tracking and Data Relay Satellites (TRDS) (E).glb",
+    "format": ".glb",
+    "bytes": 216892
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Transiting Exoplanet Survey Satellite (TESS) (A)\\Transiting Exoplanet Survey Satellite (TESS) (A).glb",
+    "format": ".glb",
+    "bytes": 206576
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Transiting Exoplanet Survey Satellite (TESS) (B)\\Transiting Exoplanet Survey Satellite (TESS) (B).glb",
+    "format": ".glb",
+    "bytes": 1693644
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Tropical Rainfall Measuring Mission (TRMM)\\Tropical Rainfall Measuring Mission (TRMM).glb",
+    "format": ".glb",
+    "bytes": 195804
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Tselina-2\\Tselina-2.glb",
+    "format": ".glb",
+    "bytes": 558920
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Ulysses\\Ulysses.glb",
+    "format": ".glb",
+    "bytes": 2462656
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Van Allen Probes\\Van Allen Probes.glb",
+    "format": ".glb",
+    "bytes": 933260
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Vehicle Assembly Building (VAB)\\Vehicle Assembly Building (VAB).glb",
+    "format": ".glb",
+    "bytes": 6505624
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Viking Lander\\Viking Lander.glb",
+    "format": ".glb",
+    "bytes": 1849384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Voyager Probe (A)\\Voyager Probe (A).glb",
+    "format": ".glb",
+    "bytes": 285936
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Voyager Probe (B)\\Voyager Probe (B) (antenna).glb",
+    "format": ".glb",
+    "bytes": 166352
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Voyager Probe (B)\\Voyager Probe (B).glb",
+    "format": ".glb",
+    "bytes": 1720864
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Wide Field Planetary Camera\\Wide Field Planetary Camera.glb",
+    "format": ".glb",
+    "bytes": 289468
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Wide-Field Infrared Explorer (WIRE)\\Wide-Field Infrared Explorer (WIRE).glb",
+    "format": ".glb",
+    "bytes": 375404
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Wilkinson Microwave Anisotropy Probe (WMAP)\\Wilkinson Microwave Anisotropy Probe (WMAP).glb",
+    "format": ".glb",
+    "bytes": 1180264
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Wind\\Wind.glb",
+    "format": ".glb",
+    "bytes": 233988
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Wrench\\Wrench.glb",
+    "format": ".glb",
+    "bytes": 30720
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\X-57\\X-57.glb",
+    "format": ".glb",
+    "bytes": 13302236
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Models\\Z2 Spacesuit\\Z2 Spacesuit.glb",
+    "format": ".glb",
+    "bytes": 16933148
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Apollo 11 - Landing Site\\Apollo 11 - Landing Site.stl",
+    "format": ".stl",
+    "bytes": 7138484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Apollo 12 - Landing Site\\Apollo 12 - Landing Site.stl",
+    "format": ".stl",
+    "bytes": 26418784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Apollo 14 - Landing Site\\Apollo 14 - Landing Site.stl",
+    "format": ".stl",
+    "bytes": 6963584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Apollo 15 - Landing Site\\Apollo 15 - Landing Site.stl",
+    "format": ".stl",
+    "bytes": 7064884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Apollo 16 - Landing Site\\Apollo 16 - Landing Site.stl",
+    "format": ".stl",
+    "bytes": 6940584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Apollo 17 - Landing Site\\Apollo 17 - Landing Site.stl",
+    "format": ".stl",
+    "bytes": 26675384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Asteroid 101955 Bennu\\Asteroid 101955 Bennu.stl",
+    "format": ".stl",
+    "bytes": 2457684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Asteroid 1620 Geographos\\Asteroid 1620 Geographos.stl",
+    "format": ".stl",
+    "bytes": 819084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Asteroid 216 Kleopatra\\Asteroid 216 Kleopatra.stl",
+    "format": ".stl",
+    "bytes": 204684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Asteroid 25143 Itokawa\\Asteroid 25143 Itokawa.stl",
+    "format": ".stl",
+    "bytes": 10018284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Asteroid 4 Vesta (A)\\Asteroid 4 Vesta (A) (East Globe Hollow).stl",
+    "format": ".stl",
+    "bytes": 20000084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Asteroid 4 Vesta (A)\\Asteroid 4 Vesta (A) (West Globe Hollow).stl",
+    "format": ".stl",
+    "bytes": 20000084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Asteroid 4 Vesta (A)\\Asteroid 4 Vesta (A).stl",
+    "format": ".stl",
+    "bytes": 40000084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Asteroid 4 Vesta (B)\\Asteroid 4 Vesta (B).stl",
+    "format": ".stl",
+    "bytes": 40366434
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Asteroid 4179 Toutatis\\Asteroid 4179 Toutatis.stl",
+    "format": ".stl",
+    "bytes": 639884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Asteroid 433 Eros\\Asteroid 433 Eros.stl",
+    "format": ".stl",
+    "bytes": 10042884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Asteroid 4486 Mithra\\Asteroid 4486 Mithra.stl",
+    "format": ".stl",
+    "bytes": 299884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Asteroid 6489 Golevka\\Asteroid 6489 Golevka.stl",
+    "format": ".stl",
+    "bytes": 204684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Asteroid 8567 1996 HW1\\Asteroid 8567 1996 HW1.stl",
+    "format": ".stl",
+    "bytes": 139084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Beam Waveguide Deep Space Station Antenna\\Azimuth track.stl",
+    "format": ".stl",
+    "bytes": 164084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Beam Waveguide Deep Space Station Antenna\\Elevation assembly.stl",
+    "format": ".stl",
+    "bytes": 371984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Beam Waveguide Deep Space Station Antenna\\Lower alidade.stl",
+    "format": ".stl",
+    "bytes": 195884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Beam Waveguide Deep Space Station Antenna\\Main reflector.stl",
+    "format": ".stl",
+    "bytes": 1002484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Beam Waveguide Deep Space Station Antenna\\Quadrapod.stl",
+    "format": ".stl",
+    "bytes": 1626084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Beam Waveguide Deep Space Station Antenna\\Upper alidade.stl",
+    "format": ".stl",
+    "bytes": 177584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Block Island\\Block Island.stl",
+    "format": ".stl",
+    "bytes": 7186984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Chandra X-ray Observatory\\Chandra base.stl",
+    "format": ".stl",
+    "bytes": 466084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Chandra X-ray Observatory\\Chandra cover.stl",
+    "format": ".stl",
+    "bytes": 73284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Chandra X-ray Observatory\\Chandra cylinder.stl",
+    "format": ".stl",
+    "bytes": 393084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Chandra X-ray Observatory\\Chandra panel.stl",
+    "format": ".stl",
+    "bytes": 18584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Chandra X-ray Observatory\\Chandra top.stl",
+    "format": ".stl",
+    "bytes": 22784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Crab Nebula\\Crab Nebula (disc).stl",
+    "format": ".stl",
+    "bytes": 5673684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Crab Nebula\\Crab Nebula (jet 1).stl",
+    "format": ".stl",
+    "bytes": 2785884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Crab Nebula\\Crab Nebula (jet 2).stl",
+    "format": ".stl",
+    "bytes": 3208984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Crab Nebula\\Crab Nebula.glb",
+    "format": ".glb",
+    "bytes": 2209524
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\CubeSat\\CubeSat bottom.stl",
+    "format": ".stl",
+    "bytes": 237684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\CubeSat\\CubeSat middle.stl",
+    "format": ".stl",
+    "bytes": 1443384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\CubeSat\\CubeSat top.stl",
+    "format": ".stl",
+    "bytes": 234884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Curiosity Landing Site\\Curiosity Landing Site.stl",
+    "format": ".stl",
+    "bytes": 2756784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Curiosity Rover (Detailed)\\1-body.stl",
+    "format": ".stl",
+    "bytes": 916984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Curiosity Rover (Detailed)\\2-components.stl",
+    "format": ".stl",
+    "bytes": 12157084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Curiosity Rover (Detailed)\\3-pins-and-hubs.stl",
+    "format": ".stl",
+    "bytes": 6986284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Curiosity Rover (Detailed)\\4-wheels.stl",
+    "format": ".stl",
+    "bytes": 17407284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Curiosity Rover (Simplified)\\Curiosity (200uM).stl",
+    "format": ".stl",
+    "bytes": 19247184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Curiosity Rover Path\\Curiosity Rover Path.stl",
+    "format": ".stl",
+    "bytes": 20000084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Cyclone Global Navigation Satellite System (CYGNSS)\\Cyclone Global Navigation Satellite System (CYGNSS).stl",
+    "format": ".stl",
+    "bytes": 34684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\DG Tau\\DG Tau.stl",
+    "format": ".stl",
+    "bytes": 11072684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Double Asteroid Redirection Test (DART)\\Double Asteroid Redirection Test (DART).stl",
+    "format": ".stl",
+    "bytes": 22319934
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Alabama.stl",
+    "format": ".stl",
+    "bytes": 10719784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Alaska.stl",
+    "format": ".stl",
+    "bytes": 9866884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Arizona.stl",
+    "format": ".stl",
+    "bytes": 10302484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Arkansas.stl",
+    "format": ".stl",
+    "bytes": 10777284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\California.stl",
+    "format": ".stl",
+    "bytes": 11748784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Colorado.stl",
+    "format": ".stl",
+    "bytes": 10630784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Connecticut.stl",
+    "format": ".stl",
+    "bytes": 9939684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Delaware.stl",
+    "format": ".stl",
+    "bytes": 10585584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Florida.stl",
+    "format": ".stl",
+    "bytes": 10448884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Georgia.stl",
+    "format": ".stl",
+    "bytes": 7632884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Hawaii.stl",
+    "format": ".stl",
+    "bytes": 10160384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Idaho.stl",
+    "format": ".stl",
+    "bytes": 7788884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Illinois.stl",
+    "format": ".stl",
+    "bytes": 7622184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Indiana.stl",
+    "format": ".stl",
+    "bytes": 10917684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Iowa.stl",
+    "format": ".stl",
+    "bytes": 7683184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Kansas.stl",
+    "format": ".stl",
+    "bytes": 7605484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Kentucky.stl",
+    "format": ".stl",
+    "bytes": 7626284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Louisiana.stl",
+    "format": ".stl",
+    "bytes": 10507584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Maine.stl",
+    "format": ".stl",
+    "bytes": 10624984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Maryland.stl",
+    "format": ".stl",
+    "bytes": 10662584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Massachusetts.stl",
+    "format": ".stl",
+    "bytes": 9719984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Michigan.stl",
+    "format": ".stl",
+    "bytes": 10656584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Minnesota.stl",
+    "format": ".stl",
+    "bytes": 10560384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Mississippi.stl",
+    "format": ".stl",
+    "bytes": 10281584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Missouri.stl",
+    "format": ".stl",
+    "bytes": 7818184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Montana.stl",
+    "format": ".stl",
+    "bytes": 7609684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Nebraska.stl",
+    "format": ".stl",
+    "bytes": 7815784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Nevada.stl",
+    "format": ".stl",
+    "bytes": 10528684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\New Hampshire.stl",
+    "format": ".stl",
+    "bytes": 10181784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\New Jersey.stl",
+    "format": ".stl",
+    "bytes": 10007284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\New Mexico.stl",
+    "format": ".stl",
+    "bytes": 10170884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\New York.stl",
+    "format": ".stl",
+    "bytes": 10186684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\North Carolina.stl",
+    "format": ".stl",
+    "bytes": 7758284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\North Dakota.stl",
+    "format": ".stl",
+    "bytes": 10569584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Ohio.stl",
+    "format": ".stl",
+    "bytes": 10596284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Oklahoma.stl",
+    "format": ".stl",
+    "bytes": 10363084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Oregon.stl",
+    "format": ".stl",
+    "bytes": 7635284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Pennsylvania.stl",
+    "format": ".stl",
+    "bytes": 10486984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Puerto Rico.stl",
+    "format": ".stl",
+    "bytes": 10598884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Rhode Island.stl",
+    "format": ".stl",
+    "bytes": 9983684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\South Carolina.stl",
+    "format": ".stl",
+    "bytes": 7715084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\South Dakota.stl",
+    "format": ".stl",
+    "bytes": 10923584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Tennessee.stl",
+    "format": ".stl",
+    "bytes": 7743084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Texas.stl",
+    "format": ".stl",
+    "bytes": 10588984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\US Virgin Islands.stl",
+    "format": ".stl",
+    "bytes": 11190084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\USA.stl",
+    "format": ".stl",
+    "bytes": 13792584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Utah.stl",
+    "format": ".stl",
+    "bytes": 10527084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Vermont.stl",
+    "format": ".stl",
+    "bytes": 10377584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Virginia.stl",
+    "format": ".stl",
+    "bytes": 10702184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Washington DC.stl",
+    "format": ".stl",
+    "bytes": 11912184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Washington.stl",
+    "format": ".stl",
+    "bytes": 10578484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\West Virginia.stl",
+    "format": ".stl",
+    "bytes": 10543484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Wisconsin.stl",
+    "format": ".stl",
+    "bytes": 14788084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eclipse 2017\\Wyoming.stl",
+    "format": ".stl",
+    "bytes": 7823184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eta Carinae Homunculus Nebula\\Eta Carinae Homunculus Nebula.stl",
+    "format": ".stl",
+    "bytes": 855134
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eta Carinae Homunculus Nebula (High Mass-Loss Rate)\\ApastronHighMdotPrimaryWind.stl",
+    "format": ".stl",
+    "bytes": 6013884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eta Carinae Homunculus Nebula (High Mass-Loss Rate)\\ApastronHighMdotWWCR.stl",
+    "format": ".stl",
+    "bytes": 10452384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eta Carinae Homunculus Nebula (High Mass-Loss Rate)\\PeriastronHighMdotPrimaryWind.stl",
+    "format": ".stl",
+    "bytes": 6027084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eta Carinae Homunculus Nebula (High Mass-Loss Rate)\\PeriastronHighMdotWWCR.stl",
+    "format": ".stl",
+    "bytes": 2561484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eta Carinae Homunculus Nebula (High Mass-Loss Rate)\\Phase1p045HighMdotPrimaryWind.stl",
+    "format": ".stl",
+    "bytes": 6572134
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eta Carinae Homunculus Nebula (High Mass-Loss Rate)\\Phase1p045HighMdotWWCR.stl",
+    "format": ".stl",
+    "bytes": 5696834
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eta Carinae Homunculus Nebula (Low Mass-Loss Rate)\\ApastronLowMdotPrimaryWind.stl",
+    "format": ".stl",
+    "bytes": 4886234
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eta Carinae Homunculus Nebula (Low Mass-Loss Rate)\\ApastronLowMdotWWCR.stl",
+    "format": ".stl",
+    "bytes": 2199034
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eta Carinae Homunculus Nebula (Low Mass-Loss Rate)\\PeriastronLowMdotPrimaryWind.stl",
+    "format": ".stl",
+    "bytes": 5292284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eta Carinae Homunculus Nebula (Low Mass-Loss Rate)\\PeriastronLowMdotWWCR.stl",
+    "format": ".stl",
+    "bytes": 2933484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eta Carinae Homunculus Nebula (Low Mass-Loss Rate)\\Phase1p045LowMdotPrimaryWind.stl",
+    "format": ".stl",
+    "bytes": 10968784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Eta Carinae Homunculus Nebula (Low Mass-Loss Rate)\\Phase1p045LowMdotWWCR.stl",
+    "format": ".stl",
+    "bytes": 7661934
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Europa Orbiter\\europa-203a.stl",
+    "format": ".stl",
+    "bytes": 3798184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Europa Orbiter\\europa-204-rp.stl",
+    "format": ".stl",
+    "bytes": 2101384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Europa Orbiter\\europa-205-rp.stl",
+    "format": ".stl",
+    "bytes": 2912284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Europa Orbiter\\europa-206-rp.stl",
+    "format": ".stl",
+    "bytes": 2021784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Europa Orbiter\\europa-207.stl",
+    "format": ".stl",
+    "bytes": 325884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Explorer 1\\01_side_a.stl",
+    "format": ".stl",
+    "bytes": 143684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Explorer 1\\02_side_b.stl",
+    "format": ".stl",
+    "bytes": 143684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Explorer 1\\03_connector_ABS.stl",
+    "format": ".stl",
+    "bytes": 1084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Explorer 1\\03_connector_PLA.stl",
+    "format": ".stl",
+    "bytes": 1084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Explorer 1\\04_nozzle_ABS.stl",
+    "format": ".stl",
+    "bytes": 243284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Explorer 1\\04_nozzle_PLA.stl",
+    "format": ".stl",
+    "bytes": 243284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Explorer 1\\05_cone_ABS.stl",
+    "format": ".stl",
+    "bytes": 127884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Explorer 1\\05_cone_PLA.stl",
+    "format": ".stl",
+    "bytes": 127884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Fablab\\FabLab manufacturing artifact.stl",
+    "format": ".stl",
+    "bytes": 294584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Fablab\\Reference part.stl",
+    "format": ".stl",
+    "bytes": 344084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Gale Crater\\Gale Crater.stl",
+    "format": ".stl",
+    "bytes": 26317184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Galileo\\Galileo probe.stl",
+    "format": ".stl",
+    "bytes": 37884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Galileo\\Galileo stowed.stl",
+    "format": ".stl",
+    "bytes": 830534
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Galileo\\Galileo with armature.stl",
+    "format": ".stl",
+    "bytes": 115284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Galileo\\Galileo without probe.stl",
+    "format": ".stl",
+    "bytes": 835934
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Galileo\\Galileo.stl",
+    "format": ".stl",
+    "bytes": 873734
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble 25th Anniversary Medallion\\Hubble 25th medallion (no back).stl",
+    "format": ".stl",
+    "bytes": 1820684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble 25th Anniversary Medallion\\Hubble 25th medallion.stl",
+    "format": ".stl",
+    "bytes": 2715184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble 25th Anniversary Model\\Base.stl",
+    "format": ".stl",
+    "bytes": 37084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble 25th Anniversary Model\\Body coupler.stl",
+    "format": ".stl",
+    "bytes": 73784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble 25th Anniversary Model\\Cover hatch.stl",
+    "format": ".stl",
+    "bytes": 54684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble 25th Anniversary Model\\Main body.stl",
+    "format": ".stl",
+    "bytes": 274984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble 25th Anniversary Model\\Radio dishes.stl",
+    "format": ".stl",
+    "bytes": 240084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble 25th Anniversary Model\\Solar panels.stl",
+    "format": ".stl",
+    "bytes": 236684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble Space Telescope\\All pieces.stl",
+    "format": ".stl",
+    "bytes": 429584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble Space Telescope\\Base.stl",
+    "format": ".stl",
+    "bytes": 37084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble Space Telescope\\Body coupler.stl",
+    "format": ".stl",
+    "bytes": 73784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble Space Telescope\\Cover hatch.stl",
+    "format": ".stl",
+    "bytes": 57184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble Space Telescope\\Main body.stl",
+    "format": ".stl",
+    "bytes": 181584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble Space Telescope\\Radio dishes.stl",
+    "format": ".stl",
+    "bytes": 47284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hubble Space Telescope\\Solar panels.stl",
+    "format": ".stl",
+    "bytes": 33684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hurricane Julio\\Hurricane Julio (small).stl",
+    "format": ".stl",
+    "bytes": 11250084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hurricane Julio\\Hurricane Julio.stl",
+    "format": ".stl",
+    "bytes": 19320484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hurricane Katrina\\Hurricane Katrina (small).stl",
+    "format": ".stl",
+    "bytes": 11250084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hurricane Katrina\\Hurricane Katrina.stl",
+    "format": ".stl",
+    "bytes": 19543384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hurricane Sandy\\Hurricane Sandy (small).stl",
+    "format": ".stl",
+    "bytes": 11250084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Hurricane Sandy\\Hurricane Sandy.stl",
+    "format": ".stl",
+    "bytes": 19361484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\001 - FTC.stl",
+    "format": ".stl",
+    "bytes": 18084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\002 - First Part.stl",
+    "format": ".stl",
+    "bytes": 175684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\003 - Column.stl",
+    "format": ".stl",
+    "bytes": 684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\004 - Tensile.stl",
+    "format": ".stl",
+    "bytes": 27084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\005 - Compression.stl",
+    "format": ".stl",
+    "bytes": 31884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\006 - Flexural.stl",
+    "format": ".stl",
+    "bytes": 684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\007 - Range.stl",
+    "format": ".stl",
+    "bytes": 90284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\008 - Torque.stl",
+    "format": ".stl",
+    "bytes": 187084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\009 - ISS Crew.stl",
+    "format": ".stl",
+    "bytes": 353184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\010 - Cubesat.stl",
+    "format": ".stl",
+    "bytes": 65484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\011 - ZeroG1.stl",
+    "format": ".stl",
+    "bytes": 54684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\019 - ZeroG2.stl",
+    "format": ".stl",
+    "bytes": 5884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\020 -Container.stl",
+    "format": ".stl",
+    "bytes": 1098984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\021 - Wire Tie.stl",
+    "format": ".stl",
+    "bytes": 653884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Space Station Tools\\wrench.stl",
+    "format": ".stl",
+    "bytes": 728284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Sun-Earth Explorer-3\\Core 2.stl",
+    "format": ".stl",
+    "bytes": 664284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Sun-Earth Explorer-3\\Exboom (empty).stl",
+    "format": ".stl",
+    "bytes": 307084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Sun-Earth Explorer-3\\Exboom1.stl",
+    "format": ".stl",
+    "bytes": 3973684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Sun-Earth Explorer-3\\Exboom2.stl",
+    "format": ".stl",
+    "bytes": 309784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Sun-Earth Explorer-3\\Inertia boom.stl",
+    "format": ".stl",
+    "bytes": 98284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Sun-Earth Explorer-3\\Rad antenna.stl",
+    "format": ".stl",
+    "bytes": 36884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\International Sun-Earth Explorer-3\\Thruster.stl",
+    "format": ".stl",
+    "bytes": 1610884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\James Webb Space Telescope\\All pieces (with supports).stl",
+    "format": ".stl",
+    "bytes": 2355184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\James Webb Space Telescope\\All pieces (without supports).stl",
+    "format": ".stl",
+    "bytes": 1404884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\James Webb Space Telescope\\Body.stl",
+    "format": ".stl",
+    "bytes": 1079084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\James Webb Space Telescope\\Dish.stl",
+    "format": ".stl",
+    "bytes": 293384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Ka-Band Satellite Beacon Receiver\\Alphasat Terminal - Antenna Feed.stl",
+    "format": ".stl",
+    "bytes": 51584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Ka-Band Satellite Beacon Receiver\\Alphasat Terminal - Base.stl",
+    "format": ".stl",
+    "bytes": 16884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Ka-Band Satellite Beacon Receiver\\Alphasat Terminal - Ka-Band Reflector Mount.stl",
+    "format": ".stl",
+    "bytes": 297084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Ka-Band Satellite Beacon Receiver\\Alphasat Terminal - Ka-Band Reflector.stl",
+    "format": ".stl",
+    "bytes": 355684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Ka-Band Satellite Beacon Receiver\\Alphasat Terminal - Positioner Arm.stl",
+    "format": ".stl",
+    "bytes": 42984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Ka-Band Satellite Beacon Receiver\\Alphasat Terminal - Positioner Body.stl",
+    "format": ".stl",
+    "bytes": 29284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Ka-Band Satellite Beacon Receiver\\Alphasat Terminal - Post.stl",
+    "format": ".stl",
+    "bytes": 92584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Ka-Band Satellite Beacon Receiver\\Alphasat Terminal - RF Electronics Box.stl",
+    "format": ".stl",
+    "bytes": 58884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Ka-Band Satellite Beacon Receiver\\Alphasat Terminal - Sub-Reflector A.stl",
+    "format": ".stl",
+    "bytes": 3484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Ka-Band Satellite Beacon Receiver\\Alphasat Terminal - Sub-Reflector B.stl",
+    "format": ".stl",
+    "bytes": 4284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Ka-Band Satellite Beacon Receiver\\Alphasat Terminal - Sub-Reflector C.stl",
+    "format": ".stl",
+    "bytes": 96484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Kepler 1-33 scale\\base.stl",
+    "format": ".stl",
+    "bytes": 10200934
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Kepler 1-33 scale\\photometer.stl",
+    "format": ".stl",
+    "bytes": 5095284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Kepler 1-33 scale\\solar array.stl",
+    "format": ".stl",
+    "bytes": 973784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Kepler 1-33 scale\\stand.stl",
+    "format": ".stl",
+    "bytes": 133484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Kepler 1-33 scale\\sun shield.stl",
+    "format": ".stl",
+    "bytes": 1790384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Landsat 9\\Landsat 9.stl",
+    "format": ".stl",
+    "bytes": 1346584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\Charge management system.stl",
+    "format": ".stl",
+    "bytes": 37484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\Cmd and data handling.stl",
+    "format": ".stl",
+    "bytes": 34484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\Combined bottom boxes.stl",
+    "format": ".stl",
+    "bytes": 14484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\GRS tank.stl",
+    "format": ".stl",
+    "bytes": 280784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\GRS unit.stl",
+    "format": ".stl",
+    "bytes": 39284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\Left side panel.stl",
+    "format": ".stl",
+    "bytes": 5084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\LISA control electronics.stl",
+    "format": ".stl",
+    "bytes": 35884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\Optics bench.stl",
+    "format": ".stl",
+    "bytes": 227784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\PSE and battery.stl",
+    "format": ".stl",
+    "bytes": 3684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\Right side panel.stl",
+    "format": ".stl",
+    "bytes": 5284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\Satellite dish.stl",
+    "format": ".stl",
+    "bytes": 451084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\Solar panel.stl",
+    "format": ".stl",
+    "bytes": 1090684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\Spacecraft base.stl",
+    "format": ".stl",
+    "bytes": 524784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\Spacecraft top.stl",
+    "format": ".stl",
+    "bytes": 1047784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\Telescope.stl",
+    "format": ".stl",
+    "bytes": 481384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Laser Interferometer Space Antenna (LISA)\\Thruster.stl",
+    "format": ".stl",
+    "bytes": 53984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Linne Crater\\Linne Crater.stl",
+    "format": ".stl",
+    "bytes": 47499984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars - Gale Crater\\Mars - Gale Crater.stl",
+    "format": ".stl",
+    "bytes": 19999984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars - Pahrump Hills\\Mars - Pahrump Hills 1.stl",
+    "format": ".stl",
+    "bytes": 16080184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars - Pahrump Hills\\Mars - Pahrump Hills 2.stl",
+    "format": ".stl",
+    "bytes": 16080184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars - Spirit Landing Site\\Mars - Spirit Landing Site.stl",
+    "format": ".stl",
+    "bytes": 24444584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars - Spirit Rover Path\\Mars - Spirit Rover Path.stl",
+    "format": ".stl",
+    "bytes": 20025684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars - Tharsis\\Mars - Tharsis.stl",
+    "format": ".stl",
+    "bytes": 16619134
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars - Valles Marineris\\Mars - Valles Marineris (part 1).stl",
+    "format": ".stl",
+    "bytes": 24107634
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars - Valles Marineris\\Mars - Valles Marineris (part 2).stl",
+    "format": ".stl",
+    "bytes": 23960984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars - Valles Marineris\\Mars - Valles Marineris (part 3).stl",
+    "format": ".stl",
+    "bytes": 23862734
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars - Valles Marineris (B)\\Mars - Valles Marineris (B).stl",
+    "format": ".stl",
+    "bytes": 20020384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars - Valles Marineris (C)\\Mars - Valles Marineris (C).stl",
+    "format": ".stl",
+    "bytes": 12362584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars - Victoria Crater\\Mars - Victoria Crater.stl",
+    "format": ".stl",
+    "bytes": 20000084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars 2020 5 inch wheel\\Mars 2020 5 inch wheel.stl",
+    "format": ".stl",
+    "bytes": 2266484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars 2020 sample tube\\Mars 2020 sample tube.stl",
+    "format": ".stl",
+    "bytes": 2120884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars Reconnaissance Orbiter\\antenna_bottom_01.stl",
+    "format": ".stl",
+    "bytes": 28784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars Reconnaissance Orbiter\\antenna_bottom_02.stl",
+    "format": ".stl",
+    "bytes": 48084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars Reconnaissance Orbiter\\bus_01.stl",
+    "format": ".stl",
+    "bytes": 67884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars Reconnaissance Orbiter\\bus_02.stl",
+    "format": ".stl",
+    "bytes": 114684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars Reconnaissance Orbiter\\connectors.stl",
+    "format": ".stl",
+    "bytes": 107084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars Reconnaissance Orbiter\\instruments_bottom.stl",
+    "format": ".stl",
+    "bytes": 92184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars Reconnaissance Orbiter\\solar panel_L.stl",
+    "format": ".stl",
+    "bytes": 31284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars Reconnaissance Orbiter\\solar panel_R.stl",
+    "format": ".stl",
+    "bytes": 31284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Mars Reconnaissance Orbiter\\top.stl",
+    "format": ".stl",
+    "bytes": 24984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Moon\\Moon (far side).stl",
+    "format": ".stl",
+    "bytes": 12362584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Moon\\Moon (near side).stl",
+    "format": ".stl",
+    "bytes": 12362584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Moon - Aristarchus Region\\Moon - Aristarchus Region.stl",
+    "format": ".stl",
+    "bytes": 6492084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Moon - Copernicus Crater\\Moon - Copernicus Crater.stl",
+    "format": ".stl",
+    "bytes": 27775884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Moon - Gassendi Crater\\Moon - Gassendi Crater.stl",
+    "format": ".stl",
+    "bytes": 29735884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Moon - Mount Hadley\\Moon - Mount Hadley.stl",
+    "format": ".stl",
+    "bytes": 47500084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Moon - Tycho\\Moon - Tycho.stl",
+    "format": ".stl",
+    "bytes": 47500084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Multi-Purpose Precision Maintenance Tool\\Multi-Purpose Precision Maintenance Tool.stl",
+    "format": ".stl",
+    "bytes": 888084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Nancy Grace Roman Space Telescope\\Nancy Grace Roman Space Telescope.stl",
+    "format": ".stl",
+    "bytes": 27238784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\NASA Insignia\\NASA Insignia (back).stl",
+    "format": ".stl",
+    "bytes": 380484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\NASA Insignia\\NASA Insignia (front).stl",
+    "format": ".stl",
+    "bytes": 2384584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\NASA Insignia\\NASA Insignia (stand).stl",
+    "format": ".stl",
+    "bytes": 276284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\New Horizons\\7399_05_rp_antenna.stl",
+    "format": ".stl",
+    "bytes": 509684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\New Horizons\\7399_05_rp_body.stl",
+    "format": ".stl",
+    "bytes": 388284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\New Horizons\\7399_05_rp_body_l.stl",
+    "format": ".stl",
+    "bytes": 208184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\New Horizons\\7399_05_rp_body_r.stl",
+    "format": ".stl",
+    "bytes": 210784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\New Horizons\\7399_05_rp_rtg.stl",
+    "format": ".stl",
+    "bytes": 212984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\NIAC Titan Sub\\NIAC Titan Sub (aft cone upright).stl",
+    "format": ".stl",
+    "bytes": 78384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\NIAC Titan Sub\\NIAC Titan Sub (main body upright).stl",
+    "format": ".stl",
+    "bytes": 2313084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Opportunity Landing Site\\Opportunity Landing Site.stl",
+    "format": ".stl",
+    "bytes": 2756784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Orion Capsule\\Orion Capsule (no fbc).stl",
+    "format": ".stl",
+    "bytes": 2586884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Orion Capsule\\Orion Capsule (plug).stl",
+    "format": ".stl",
+    "bytes": 99684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Orion Capsule\\Orion Capsule (stand).stl",
+    "format": ".stl",
+    "bytes": 1481884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Pillars of Creation\\Pillars of Creation (full).stl",
+    "format": ".stl",
+    "bytes": 52041984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Pillars of Creation\\Pillars of Creation (mini).stl",
+    "format": ".stl",
+    "bytes": 32913784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Pillars of Creation\\Pillars of Creation (pillar 1A).stl",
+    "format": ".stl",
+    "bytes": 18243784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Pillars of Creation\\Pillars of Creation (pillar 1B).stl",
+    "format": ".stl",
+    "bytes": 1228884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Pillars of Creation\\Pillars of Creation (pillar 2).stl",
+    "format": ".stl",
+    "bytes": 6807584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Pillars of Creation\\Pillars of Creation (pillar 3).stl",
+    "format": ".stl",
+    "bytes": 10578584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Pillars of Creation\\Pillars of Creation (positions).stl",
+    "format": ".stl",
+    "bytes": 36858584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V - Stage 1\\bottom part a.stl",
+    "format": ".stl",
+    "bytes": 299784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V - Stage 1\\bottom part b.stl",
+    "format": ".stl",
+    "bytes": 1790934
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V - Stage 1\\top part a.stl",
+    "format": ".stl",
+    "bytes": 491684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V - Stage 1\\top part b.stl",
+    "format": ".stl",
+    "bytes": 330184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V - Stage 2\\bottom.stl",
+    "format": ".stl",
+    "bytes": 1380284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V - Stage 2\\joining cube.stl",
+    "format": ".stl",
+    "bytes": 684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V - Stage 2\\top.stl",
+    "format": ".stl",
+    "bytes": 512684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V Rocket\\command moduel.stl",
+    "format": ".stl",
+    "bytes": 182684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V Rocket\\escape tower.stl",
+    "format": ".stl",
+    "bytes": 801584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V Rocket\\fin (print 4).stl",
+    "format": ".stl",
+    "bytes": 3384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V Rocket\\lem shroud.stl",
+    "format": ".stl",
+    "bytes": 58184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V Rocket\\S-IC bottom.stl",
+    "format": ".stl",
+    "bytes": 1891434
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V Rocket\\S-IC joining cube.stl",
+    "format": ".stl",
+    "bytes": 684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V Rocket\\S-IC top.stl",
+    "format": ".stl",
+    "bytes": 820384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V Rocket\\S-II.stl",
+    "format": ".stl",
+    "bytes": 816184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V Rocket\\S-IV b.stl",
+    "format": ".stl",
+    "bytes": 836634
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V Rocket\\service module.stl",
+    "format": ".stl",
+    "bytes": 2329184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V Rocket\\stage 1-2 coupler v2.stl",
+    "format": ".stl",
+    "bytes": 331184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Saturn V Rocket\\stage 1-2 coupler.stl",
+    "format": ".stl",
+    "bytes": 207484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\SN 1006\\Blast quarter globe.stl",
+    "format": ".stl",
+    "bytes": 19224184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\SN 1006\\Ejecta full globe.stl",
+    "format": ".stl",
+    "bytes": 13985484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\SN 1006\\Ejecta quarter globe.stl",
+    "format": ".stl",
+    "bytes": 35835084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\SN 1987A\\Combined.stl",
+    "format": ".stl",
+    "bytes": 28638734
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\SN 1987A\\Ring debris.stl",
+    "format": ".stl",
+    "bytes": 26520784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\SN 1987A\\Ring.stl",
+    "format": ".stl",
+    "bytes": 2122934
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\SOFIA\\Fuselage top.stl",
+    "format": ".stl",
+    "bytes": 675084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\SOFIA\\Instrument.stl",
+    "format": ".stl",
+    "bytes": 19484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\SOFIA\\Left wing.stl",
+    "format": ".stl",
+    "bytes": 187284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\SOFIA\\Nose section.stl",
+    "format": ".stl",
+    "bytes": 1974784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\SOFIA\\Right wing.stl",
+    "format": ".stl",
+    "bytes": 1587884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\SOFIA\\Tail section.stl",
+    "format": ".stl",
+    "bytes": 196984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\SOFIA\\Telescope cavity closed.stl",
+    "format": ".stl",
+    "bytes": 7784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\SOFIA\\Telescope cavity open.stl",
+    "format": ".stl",
+    "bytes": 1464384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Solar and Heliospheric Observatory (SOHO)\\All parts.stl",
+    "format": ".stl",
+    "bytes": 2738584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Solar and Heliospheric Observatory (SOHO)\\Part 1.stl",
+    "format": ".stl",
+    "bytes": 1253484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Solar and Heliospheric Observatory (SOHO)\\Part 2.stl",
+    "format": ".stl",
+    "bytes": 686684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Solar and Heliospheric Observatory (SOHO)\\Part 3.stl",
+    "format": ".stl",
+    "bytes": 798584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Space Launch System (SLS) Block 1\\Space Launch System (SLS) Block 1.stl",
+    "format": ".stl",
+    "bytes": 13721684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Tycho Supernova Remnant\\Tycho Supernova Remnant (left inner).stl",
+    "format": ".stl",
+    "bytes": 19818134
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Tycho Supernova Remnant\\Tycho Supernova Remnant (left outer).stl",
+    "format": ".stl",
+    "bytes": 20360534
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Tycho Supernova Remnant\\Tycho Supernova Remnant (right inner).stl",
+    "format": ".stl",
+    "bytes": 19867034
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Tycho Supernova Remnant\\Tycho Supernova Remnant (right outer).stl",
+    "format": ".stl",
+    "bytes": 20341384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\U Scorpii\\U Scorpii.stl",
+    "format": ".stl",
+    "bytes": 12293484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Vesta - Numisia\\Vesta - Numisia.stl",
+    "format": ".stl",
+    "bytes": 24514584
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Vesta - Rheasilvia\\Vesta - Rheasilvia.stl",
+    "format": ".stl",
+    "bytes": 19999984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Vesta - Snowman Craters\\Vesta - Snowman Craters.stl",
+    "format": ".stl",
+    "bytes": 20000084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Viking 40th Anniversary Emblem\\Viking 40th Anniversary Emblem.stl",
+    "format": ".stl",
+    "bytes": 3537984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Viking Lander\\3D Foot x 3.stl",
+    "format": ".stl",
+    "bytes": 85984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Viking Lander\\Bottom.stl",
+    "format": ".stl",
+    "bytes": 286884
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Viking Lander\\Dish part A.stl",
+    "format": ".stl",
+    "bytes": 161184
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Viking Lander\\Dish part B.stl",
+    "format": ".stl",
+    "bytes": 49384
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Viking Lander\\Leg x 3.stl",
+    "format": ".stl",
+    "bytes": 260784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Viking Lander\\Tool1 A.stl",
+    "format": ".stl",
+    "bytes": 25284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Viking Lander\\Tool1 B.stl",
+    "format": ".stl",
+    "bytes": 15084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Viking Lander\\Tool1 C.stl",
+    "format": ".stl",
+    "bytes": 104284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Viking Lander\\Tool2.stl",
+    "format": ".stl",
+    "bytes": 42284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Viking Lander\\Top.stl",
+    "format": ".stl",
+    "bytes": 720984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\arm_left_01.stl",
+    "format": ".stl",
+    "bytes": 174984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\arm_left_02.stl",
+    "format": ".stl",
+    "bytes": 307084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\arm_right_01.stl",
+    "format": ".stl",
+    "bytes": 550784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\arm_right_02.stl",
+    "format": ".stl",
+    "bytes": 470684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\boom_01.stl",
+    "format": ".stl",
+    "bytes": 95284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\boom_02.stl",
+    "format": ".stl",
+    "bytes": 97484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\boom_03.stl",
+    "format": ".stl",
+    "bytes": 96984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\bus.stl",
+    "format": ".stl",
+    "bytes": 303484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\dish.stl",
+    "format": ".stl",
+    "bytes": 186784
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\instrument_01.stl",
+    "format": ".stl",
+    "bytes": 7084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\instrument_02.stl",
+    "format": ".stl",
+    "bytes": 7084
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\instrument_03.stl",
+    "format": ".stl",
+    "bytes": 11284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\legs.stl",
+    "format": ".stl",
+    "bytes": 182984
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\pins.stl",
+    "format": ".stl",
+    "bytes": 235484
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Voyager\\stand.stl",
+    "format": ".stl",
+    "bytes": 31684
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\NASA-3D-Resources-master\\NASA-3D-Resources-master\\3D Printing\\Wrench\\Wrench.stl",
+    "format": ".stl",
+    "bytes": 728284
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\react-three-fiber-master\\react-three-fiber-master\\example\\public\\apple.gltf",
+    "format": ".gltf",
+    "bytes": 10407
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\react-three-fiber-master\\react-three-fiber-master\\example\\public\\bottle.gltf",
+    "format": ".gltf",
+    "bytes": 5071
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\react-three-fiber-master\\react-three-fiber-master\\example\\public\\farm.gltf",
+    "format": ".gltf",
+    "bytes": 155334
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\react-three-fiber-master\\react-three-fiber-master\\example\\public\\lightning.gltf",
+    "format": ".gltf",
+    "bytes": 12557
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\react-three-fiber-master\\react-three-fiber-master\\example\\public\\Parrot.glb",
+    "format": ".glb",
+    "bytes": 333280
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\react-three-fiber-master\\react-three-fiber-master\\example\\public\\ramen.gltf",
+    "format": ".gltf",
+    "bytes": 14756
+  },
+  {
+    "source": "F:\\telementry_project\\assets\\react-three-fiber-master\\react-three-fiber-master\\example\\public\\Stork.glb",
+    "format": ".glb",
+    "bytes": 309520
+  },
+  {
+    "source": "F:\\telementry_project\\rocket-mission-platform\\frontend\\public\\models\\launchpad\\launcher.glb",
+    "format": ".glb",
+    "bytes": 198480
+  },
+  {
+    "source": "F:\\telementry_project\\rocket-mission-platform\\frontend\\public\\models\\saturn-v\\saturn-v.glb",
+    "format": ".glb",
+    "bytes": 927212
+  }
+]
