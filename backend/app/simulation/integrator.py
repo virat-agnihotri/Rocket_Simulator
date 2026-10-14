@@ -81,6 +81,14 @@ def integrate_trajectory(
     ev_burnout.terminal = False
     ev_burnout.direction = -1.0
 
+    events_list = [ev_impact, ev_burnout]
+    if mission.engine_shutdown_time_s is not None:
+        def ev_shutdown(t_val, y_val):
+            return t_val - mission.engine_shutdown_time_s
+        ev_shutdown.terminal = False
+        ev_shutdown.direction = 1.0
+        events_list.append(ev_shutdown)
+
     solver_settings = mission.numerical_solver_settings
 
     try:
@@ -90,7 +98,7 @@ def integrate_trajectory(
             y0=initial_state,
             method=solver_settings.method,
             t_eval=t_eval,
-            events=[ev_impact, ev_burnout],
+            events=events_list,
             rtol=solver_settings.rtol,
             atol=solver_settings.atol,
             max_step=solver_settings.max_step_s,

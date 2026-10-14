@@ -74,7 +74,8 @@ def compute_dynamics_derivatives(
     a_drag = f_drag / current_mass
 
     # 3. Engine propulsion
-    if clamped_prop > 1e-4:
+    is_shutdown = mission.engine_shutdown_time_s is not None and t >= mission.engine_shutdown_time_s
+    if clamped_prop > 1e-4 and not is_shutdown:
         is_engine_active = True
         thrust_mag = vehicle.thrust_n
         mdot = propellant_mass_flow_rate(vehicle.thrust_n, vehicle.specific_impulse_s)
@@ -116,10 +117,13 @@ def compute_dynamics_derivatives(
     v_radial = float(np.dot(vel, e_r))
     v_horizontal = float(np.dot(vel, e_theta))
 
-    # Downrange distance along Earth surface
-    # Angle theta from launch position (x0=EARTH_RADIUS, y0=0)
-    theta = float(np.arctan2(y, x))
-    downrange_m = EARTH_RADIUS_M * theta
+    # Downrange distance along Earth surface relative to the launch site on rotating Earth
+    theta_pad = EARTH_ROTATION_RATE_RAD_S * t if include_earth_rotation else 0.0
+    theta_rocket = float(np.arctan2(y, x))
+    delta_theta_ground = theta_rocket - theta_pad
+    # Wrap to [-pi, pi] if needed
+    delta_theta_ground = (delta_theta_ground + np.pi) % (2.0 * np.pi) - np.pi
+    downrange_m = max(0.0, float(EARTH_RADIUS_M * delta_theta_ground))
 
     derivatives = np.array([
         vel[0],

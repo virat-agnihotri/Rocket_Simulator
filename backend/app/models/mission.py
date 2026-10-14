@@ -101,3 +101,8 @@ class MissionConfig(BaseModel):
         default_factory=NumericalSolverSettings,
         description="Solver integration settings"
     )
+    engine_shutdown_time_s: Optional[float] = Field(
+        default=None,
+        ge=0.0,
+        description="Optional premature engine shutdown / failure time in seconds"
+    )

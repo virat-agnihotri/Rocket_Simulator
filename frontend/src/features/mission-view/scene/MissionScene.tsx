@@ -48,7 +48,9 @@ function Rocket({ run, clock, model, reducedMotion }: Pick<Props, 'run' | 'clock
   useFrame(() => {
     const p = sampleMission(run.samples, clock.current);
     const state = separationAt(run, clock.current);
-    if (root.current) { root.current.position.set(...localPosition(p.position)); root.current.rotation.z = -p.pitch; }
+    const pos = localPosition(p);
+    const pitch = p.localPitch ?? p.pitch;
+    if (root.current) { root.current.position.set(...pos); root.current.rotation.z = -pitch; }
     if (boosters.current) {
       const elapsed = state.boosters ? clock.current - BOOSTER_SEPARATION : 0;
       boosters.current.position.y = -Math.min(80, elapsed * 3);
@@ -67,9 +69,13 @@ function Rocket({ run, clock, model, reducedMotion }: Pick<Props, 'run' | 'clock
   </group>;
 }
 
-function localPosition(position: Vec3): Vec3 {
-  // Shared launch-frame meters; the Earth overview uses a separate scale.
-  return position;
+function localPosition(sample: { launchPosition?: Vec3; position: Vec3; downrange?: number; altitude?: number }): Vec3 {
+  // Topocentric launch-frame meters: [downrange, altitude, 0]
+  if (sample.launchPosition) return sample.launchPosition;
+  if (typeof sample.downrange === 'number' && typeof sample.altitude === 'number') {
+    return [sample.downrange, sample.altitude, 0];
+  }
+  return sample.position;
 }
 
 function LaunchView({ run, clock, mode, model, reducedMotion, rocketCameraReset = 0 }: Props) {
@@ -79,11 +85,12 @@ function LaunchView({ run, clock, mode, model, reducedMotion, rocketCameraReset 
   const target = useMemo(() => new Vector3(), []);
   const cameraTarget = useMemo(() => new Vector3(), []);
   const cameraPosition = useMemo(() => new Vector3(), []);
-  const planned = useMemo(() => run.samples.map(p => localPosition(p.position)), [run]);
+  const planned = useMemo(() => run.samples.map(p => localPosition(p)), [run]);
   useFrame(({ camera }, delta) => {
     const t = clock.current;
     const p = sampleMission(run.samples, t);
-    target.set(...p.position).add(new Vector3(0, 25, 0));
+    const pos = localPosition(p);
+    target.set(...pos).add(new Vector3(0, 25, 0));
     if (mode === 'chase') { cameraTarget.copy(target); cameraPosition.copy(target).add(new Vector3(65, 20, 85)); }
     else if (mode === 'pad') { cameraTarget.copy(target); cameraPosition.copy(target).add(new Vector3(100, -Math.min(20, p.altitude*.1)+40, 140)); }
     else {
@@ -115,7 +122,7 @@ function LaunchView({ run, clock, mode, model, reducedMotion, rocketCameraReset 
 
 function FlownPath({ run, clock, earth = false }: Pick<Props, 'run' | 'clock'> & { earth?: boolean }) {
   const group = useRef<Group>(null);
-  const positions = useMemo(() => new Float32Array(run.samples.flatMap(p => earth ? earthPosition(run, p.position) : p.position)), [run, earth]);
+  const positions = useMemo(() => new Float32Array(run.samples.flatMap(p => earth ? earthPosition(run, p.position) : localPosition(p))), [run, earth]);
   useFrame(() => {
     const line = group.current?.children[0] as unknown as { geometry: { setDrawRange: (start: number, count: number) => void } };
     line?.geometry.setDrawRange(0, run.samples.filter(p => p.time <= clock.current).length);

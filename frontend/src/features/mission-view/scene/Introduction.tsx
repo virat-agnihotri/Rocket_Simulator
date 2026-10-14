@@ -9,7 +9,15 @@ import { EngineEffects } from './EngineEffects';
 import { useReducedMotion } from '../telemetry/useReducedMotion';
 function IntroLaunch({ reduced }: { reduced: boolean }) {
  const rocket = useRef<Group>(null);
- useFrame(({clock}) => {if(rocket.current){const phase=reduced?.25:(clock.elapsedTime%24)/24;rocket.current.position.set(10+phase*.8,-3+phase*6,3);rocket.current.rotation.z=-.08;}});
+ useFrame(({clock}) => {
+   if(rocket.current){
+     const phase=reduced?.25:(clock.elapsedTime%24)/24;
+     const horizontalOffset = phase < 0.15 ? 0 : Math.sin((phase - 0.15) / 0.85 * (Math.PI / 2)) * 0.8;
+     const pitchAngle = phase < 0.15 ? 0 : -0.08 * Math.min(1, (phase - 0.15) / 0.2);
+     rocket.current.position.set(10 + horizontalOffset, -3 + phase * 6, 3);
+     rocket.current.rotation.z = pitchAngle;
+   }
+ });
  return <group ref={rocket}><Suspense fallback={<ModelLoading/>}><RocketAsset id="saturn-v" height={3}/></Suspense><group scale={.045}><EngineEffects illustrative/></group></group>;
 }
 function World({ reduced }: { reduced: boolean }) {

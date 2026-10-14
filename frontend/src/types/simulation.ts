@@ -32,6 +32,7 @@ export interface MissionConfig {
   wind_velocity_x_mps: number;
   guidance_configuration: GuidanceConfig;
   numerical_solver_settings?: NumericalSolverSettings;
+  engine_shutdown_time_s?: number;
 }
 
 export interface TelemetryPoint {

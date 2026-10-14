@@ -186,6 +186,8 @@ def run_trajectory_simulation(
         warnings_list.append(f"High peak acceleration ({peak_acc / 9.80665:.1f} g) experienced; may exceed structural payload limits.")
     if max_q > 50000.0:
         warnings_list.append(f"High maximum dynamic pressure Max-Q ({max_q / 1000.0:.1f} kPa); high aerodynamic stresses.")
+    if mission.engine_shutdown_time_s is not None:
+        warnings_list.append(f"Premature engine cutoff triggered at t = {mission.engine_shutdown_time_s:.1f} s.")
     if res["impacted"]:
         warnings_list.append("Rocket trajectory intersected Earth surface (ground impact).")
 
