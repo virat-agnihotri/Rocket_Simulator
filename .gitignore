@@ -121,3 +121,18 @@ simulation_outputs/
 backend/outputs/
 backend/results/
 checkpoints/
+
+# Keep the central vehicle registry and lightweight hangar thumbnails reviewable.
+!frontend/src/assets/
+frontend/src/assets/*
+!frontend/src/assets/rocketRegistry.ts
+!frontend/public/models/
+frontend/public/models/*
+!frontend/public/models/*/
+frontend/public/models/*/*
+!frontend/public/models/*/preview.png
+
+# Licensed Starship asset and rendered thumbnail are part of this integration.
+!frontend/public/models/rockets/starship-s24-b7/
+!frontend/public/models/rockets/starship-s24-b7/rocket.glb
+!frontend/public/models/rockets/starship-s24-b7/preview.jpg

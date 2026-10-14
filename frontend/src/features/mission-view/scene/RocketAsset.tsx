@@ -38,7 +38,8 @@ function STLAsset({ url, height, onLoaded, flipVertical }: { url: string; height
   useEffect(() => () => model.traverse(object => { if (object instanceof Mesh) (object.material as MeshStandardMaterial).dispose(); }), [model]);
   return <primitive object={model} dispose={null} />;
 }
-export function RocketAsset({ id, height = 60, onLoaded }: { id: RocketId; height?: number; onLoaded?: () => void }) {
+export function RocketAsset({ id, height, onLoaded }: { id: RocketId; height?: number; onLoaded?: () => void }) {
   const asset = getRocket(id);
-  return asset.format === 'stl' ? <STLAsset url={asset.url} height={height} onLoaded={onLoaded} flipVertical={asset.flipVertical} /> : <GLBAsset url={asset.url} height={height} onLoaded={onLoaded} flipVertical={asset.flipVertical} />;
+  const visualHeight = (height ?? asset.presentationHeight) * asset.scaleCorrection;
+  return <group position={[0, asset.verticalOffset, 0]}>{asset.format === 'stl' ? <STLAsset url={asset.url} height={visualHeight} onLoaded={onLoaded} flipVertical={asset.flipVertical} /> : <GLBAsset url={asset.url} height={visualHeight} onLoaded={onLoaded} flipVertical={asset.flipVertical} />}</group>;
 }
